@@ -1,4 +1,7 @@
 # Translation_en2zh
+
+该模型已在Hugging Face开源：https://huggingface.co/Jyshen/Translation_en2zh
+---
 预训练模型：https://huggingface.co/Helsinki-NLP/opus-mt-en-zh  
 参考代码： https://huggingface.co/DDDSSS/translation_en-zh   
 使用数据集：  
